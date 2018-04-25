@@ -1,0 +1,9 @@
+C:\dev\apps\ModelingSandbox\ModelingSandbox\obj\Debug\netcoreapp2.0\ModelingSandbox.csprojResolveAssemblyReference.cache
+C:\dev\apps\ModelingSandbox\ModelingSandbox\obj\Debug\netcoreapp2.0\ModelingSandbox.csproj.CoreCompileInputs.cache
+C:\dev\apps\ModelingSandbox\ModelingSandbox\obj\Debug\netcoreapp2.0\ModelingSandbox.AssemblyInfoInputs.cache
+C:\dev\apps\ModelingSandbox\ModelingSandbox\obj\Debug\netcoreapp2.0\ModelingSandbox.AssemblyInfo.cs
+C:\dev\apps\ModelingSandbox\ModelingSandbox\bin\Debug\netcoreapp2.0\ModelingSandbox.deps.json
+C:\dev\apps\ModelingSandbox\ModelingSandbox\bin\Debug\netcoreapp2.0\ModelingSandbox.dll
+C:\dev\apps\ModelingSandbox\ModelingSandbox\bin\Debug\netcoreapp2.0\ModelingSandbox.pdb
+C:\dev\apps\ModelingSandbox\ModelingSandbox\obj\Debug\netcoreapp2.0\ModelingSandbox.dll
+C:\dev\apps\ModelingSandbox\ModelingSandbox\obj\Debug\netcoreapp2.0\ModelingSandbox.pdb

@@ -1,0 +1,13 @@
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelDemo.deps.json
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelDemo.runtimeconfig.json
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelDemo.runtimeconfig.dev.json
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelDemo.dll
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelDemo.pdb
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelingSandbox.dll
+C:\dev\apps\ModelingSandbox\ModelDemo\bin\Debug\netcoreapp2.0\ModelingSandbox.pdb
+C:\dev\apps\ModelingSandbox\ModelDemo\obj\Debug\netcoreapp2.0\ModelDemo.csprojResolveAssemblyReference.cache
+C:\dev\apps\ModelingSandbox\ModelDemo\obj\Debug\netcoreapp2.0\ModelDemo.csproj.CoreCompileInputs.cache
+C:\dev\apps\ModelingSandbox\ModelDemo\obj\Debug\netcoreapp2.0\ModelDemo.AssemblyInfoInputs.cache
+C:\dev\apps\ModelingSandbox\ModelDemo\obj\Debug\netcoreapp2.0\ModelDemo.AssemblyInfo.cs
+C:\dev\apps\ModelingSandbox\ModelDemo\obj\Debug\netcoreapp2.0\ModelDemo.dll
+C:\dev\apps\ModelingSandbox\ModelDemo\obj\Debug\netcoreapp2.0\ModelDemo.pdb
