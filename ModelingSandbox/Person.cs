@@ -7,11 +7,16 @@ namespace ModelingSandbox
     public class Person : Actor
     {
         public string Name;
-        public int Atk = 1;
         public int MoveRange = 1;
 
+        //Reference to a given actor's manager.  Move to Actor class?
         public Manager Manager;
+
+        //For tracking who, on the board, is known by a given person
         List<int> PerceivedActors;
+
+        //For tracking atacks that are currently available, based on active equipment, skills, etc...
+        List<Attack> ReadyAttacks;
 
         public Person()
         {
@@ -32,6 +37,7 @@ namespace ModelingSandbox
 
             }
             //If I'm not in range, move closer
+            
             //Attack
         }
 

@@ -25,7 +25,7 @@ namespace ModelingSandbox
 
             int personId = actors.Count;
             person.Id = personId;
-            person.manager = this;
+            person.Manager = this;
             actors.Add(personId, person);
             positions.Add(personId, location);
 

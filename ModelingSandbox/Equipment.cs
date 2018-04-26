@@ -9,5 +9,7 @@ namespace ModelingSandbox
         int Id;
         string Name;
         string PersonModifier;
+
+        List<Attack> Attacks;
     }
 }
